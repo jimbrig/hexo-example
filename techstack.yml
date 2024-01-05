@@ -1,7 +1,8 @@
 repo_name: jimbrig/hexo-example
 report_id: 5cf793bf54c4752157884e1ee6aba8eb
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-07T20:29:25+00:00'
+timestamp: '2024-01-05T08:28:14+00:00'
 requested_by: jimbrig
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jimbrig/hexo-example
   detection_source: Repo Metadata
 - name: EJS
   description: An Embedded JavaScript templating Language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/package.json
   detection_source: package.json
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jimbrig/hexo-example
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/hexo-example
   detection_source: Repo Metadata
 - name: Grunt
   description: The JavaScript Task Runner
@@ -56,7 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
-  detection_source_url: github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
   detection_source: themes/landscape/package.json
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
@@ -68,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
@@ -79,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
   detection_source: themes/landscape/package.json
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
@@ -92,7 +99,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1154/mQZOTo9f.png
-  detection_source_url: github.com/jimbrig/hexo-example/blob/main/yarn.lock
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
@@ -106,7 +113,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
   detection_source: themes/landscape/package.json
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
@@ -120,7 +127,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
   detection_source: themes/landscape/package.json
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
@@ -134,7 +141,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
+  detection_source_url: https://github.com/jimbrig/hexo-example/blob/main/themes/landscape/package.json
   detection_source: themes/landscape/package.json
   last_updated_by: jimbrig
   last_updated_on: 2021-08-06 22:15:01.000000000 Z
